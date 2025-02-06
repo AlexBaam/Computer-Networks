@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trains>
+
+    <train id="5538">
+        <from>Bacau</from>
+        <to>Iasi</to>
+        <stations>
+            <station num="0">
+                <name>Bacau</name>
+                <departure>06:38</departure>
+                <delay>5</delay>
+            </station>
+            <station num="1">
+                <name>Roman</name>
+                <arrival>07:27</arrival>
+                <departure>07:32</departure>
+                <delay>5</delay>
+                <early>20</early>
+            </station>
+            <station num="2">
+                <name>Pascani</name>
+                <arrival>08:11</arrival>
+                <departure>08:41</departure>
+                <delay>8</delay>
+                <early>20</early>
+            </station>
+            <station num="3">
+                <name>Iasi</name>
+                <arrival>10:02</arrival>
+                <delay>8</delay>
+                <early>20</early>
+            </station>
+        </stations>
+    </train>
+
+    <train id="5539">
+        <from>Bacau</from>
+        <to>Iasi</to>
+        <stations>
+            <station num="0">
+                <name>Bacau</name>
+                <departure>10:21</departure>
+                <delay>10</delay>
+            </station>
+            <station num="1">
+                <name>Roman</name>
+                <arrival>10:51</arrival>
+                <departure>10:54</departure>
+                <delay>10</delay>
+                <early>0</early>
+            </station>
+            <station num="2">
+                <name>Tg. Frumos</name>
+                <arrival>11:48</arrival>
+                <departure>11:51</departure>
+                <delay>10</delay>
+                <early>0</early>
+            </station>
+            <station num="3">
+                <name>Iasi</name>
+                <arrival>12:20</arrival>
+                <delay>10</delay>
+                <early>0</early>
+            </station>
+        </stations>
+    </train>
+
+</trains>

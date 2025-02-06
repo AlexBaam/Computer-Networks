@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "name": "Nicu",
+            "pass": "0307"
+        },
+        {
+            "name": "Niku",
+            "pass": "0307"
+        },
+        {
+            "name": "Alex",
+            "pass": "0307"
+        },
+        {
+            "name": "Alexu",
+            "pass": "0307"
+        },
+        {
+            "name": "Jojo",
+            "pass": "0404"
+        },
+        {
+            "name": "David",
+            "pass": "0409"
+        },
+        {
+            "name": "Orange",
+            "pass": "cat"
+        }
+    ]
+}
